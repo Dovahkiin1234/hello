@@ -1,7 +1,7 @@
 ETC
 
 {
-    "url": "stratum+tcp://etc.pool.minergate.com:45777/xdxd13121@gmail.com",
+    "url": "stratum+tcp://etc.pool.minergate.com:45777/dj0z394fh1gyh3g",
     "algo": "etchash",
     "max-gpu": 50,
     "idle-wait": 3,
@@ -11,7 +11,7 @@ ETC
 
 XMR
 {
-    "url": "stratum+tcp://xmr.pool.minergate.com:45700/xdxd13121@gmail.com",
+    "url": "stratum+tcp://xmr.pool.minergate.com:45700/dj0z394fh1gyh3g",
     "algo": "etchash",
     "max-gpu": 50,
     "idle-wait": 3,
